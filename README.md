@@ -1,3 +1,5 @@
+# Домашнее задание к занятию "`«Git»`" - `Борис Сидоров`
+
 ### Задание 1
 
 `Что нужно сделать:`
@@ -18,9 +20,8 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-```
 [Fist commit](https://github.com/BorisSidorov-student/homework-8-01/commit/fa3ac6d96bd68f572d5acfcd62255db6b75910a5)
-```
+
 
 
 ---
@@ -36,9 +37,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-```
 [.gitignore](https://github.com/BorisSidorov-student/homework-8-01/commit/3fe52ed73e9acdb06a77c013e8a61f3ef48e5b90) 
-```
 
 ---
 
@@ -62,12 +61,12 @@
 скрин для Git
 
 
-```
+
 (https://github.com/BorisSidorov-student/homework-8-01/network)
-```
-`
+
+
 ![scrin_net](https://github.com/BorisSidorov-student/homework-8-01/blob/main/scrin_graph.jpg)
-`
+
 
 ### Задание 4*
 
@@ -85,8 +84,7 @@
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 
-```
+
 [merg conflict](https://github.com/BorisSidorov-student/homework-8-01/network)
 
-```
 
