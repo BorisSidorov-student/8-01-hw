@@ -40,7 +40,7 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![scrin_net](https://github.com/BorisSidorov-student/homework-8-01/blob/main/scrin_graph.jpg)
+![Текст описания](https://www.example.com/image.jpg)
 
 ---
 
@@ -55,6 +55,6 @@
 
 ```
 
-![scrin_net](https://github.com/BorisSidorov-student/homework-8-01/blob/main/scrin_graph.jpg)
+![Текст описания](https://www.example.com/image.jpg)
 
 
