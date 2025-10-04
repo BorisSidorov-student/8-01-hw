@@ -60,4 +60,6 @@
 
 ```
 
-![Текст описания](https://www.example.com/image.jpg)
+![Отредактированный код](screen/8-02/task-4/8-02.task-4.1.png)
+![log выполнения pipeline](screen/8-02/task-4/8-02.task-4.2.png)
+![Скрин из nexus](screen/8-02/task-4/8-02.task-4.3.png)
